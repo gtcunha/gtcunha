@@ -1,19 +1,25 @@
-## ⚙️ Prazer! Eu sou o Dev Gustavo Cunha ⚙️
+## Olá! Eu sou o Dev Gustavo Cunha 💻
 
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavotcunha/)
-[![contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gustavothebaldi@gmail.com) 
-[![contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+5521988559393) 
-
+<div>
+    <a href="https://www.linkedin.com/in/gustavotcunha/" target="_blank"><img align="center" height="30em" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
+    <a href="mailto:gustavothebaldi@gmail.com" target="_blank"><img height="25em"align="center"src="https://api.iconify.design/logos/google-gmail.svg"target="_blank"></a> 
+    <a href="https://wa.me/5521988559393" target="_blank"><img height="30em" align="center"src="https://i.imgur.com/ryESuZ5.png"target="_blank"></a> 
+</div><br>
 
 <div>
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gtcunha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="200em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gtcunha&compact=true&theme=dark"/>
-</div>
-<br> 
-
-## Tecnologias
+</div><br>
+ 
+## Tecnologias 
 <br>
 
-![Skills](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Skills](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Skills](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<div style="display: inline_block">
+    <img height="50em" align="center" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    <img height="50em" align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+    <img height="50em" align="center" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+    <img height="40em" align="center" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+</div>
+
+
+##
