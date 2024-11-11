@@ -1,4 +1,4 @@
-## Olá! Eu sou o Dev Gustavo Cunha 💻
+## Olá! Eu sou o SysAdmin Gustavo Cunha 💻
 
 <div>
     <a href="https://www.linkedin.com/in/gustavotcunha/" target="_blank"><img align="center" height="30em" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
